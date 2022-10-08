@@ -1,4 +1,4 @@
-# PROGRAM_TRANSKRIP_NILAI_001
+PROGRAM_TRANSKRIP_NILAI_001
 
 run:
 -------------------------------------------
